@@ -3,8 +3,7 @@ Description:
 Program to find if a rectange of maximum area
 can be made from the given numbers.
 
-Made by:Shubham Arya
-
+Made by: mrjoker05
 Date:02/02/2019
 */
 

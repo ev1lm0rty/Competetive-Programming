@@ -1,6 +1,6 @@
 /*
 Description: SURVIVE (codechef-beginner)
-Made by: Shubham Arya
+Made by: mrjoker05
 Date: 14/02/2019
 */
 

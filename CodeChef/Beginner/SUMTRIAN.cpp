@@ -1,6 +1,6 @@
 /*
 * Description: SUMTRIAN (codechef)
-* Made by: mr_joker
+* Made by: mrjoker05
 * Start Date: 01/04/2019
 * End Date:
 */
